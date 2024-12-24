@@ -1,6 +1,6 @@
 # Sistema Aluno
 
-Este projeto é um sistema do cadastro, nota e media do aluno, desenvolvido em Java, utilizando o Apache NetBeans 17 com JFrameForm.
+Este projeto é um sistema do cadastro, nota e media do aluno, desenvolvido em Java, utilizando o Apache NetBeans 17.
 
 <div align="center">
   <img src="https://github.com/lucassantos540/ProjNotaAluno/blob/main/preview1.png?raw=true" alt="SistemaDeEmpresa" width="350px">
